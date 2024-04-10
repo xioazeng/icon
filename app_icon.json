@@ -1,0 +1,58 @@
+{
+  "name": "app图标",
+  "description": "自用app图标订阅",
+  "icons": [
+    {
+      "name": "TikTOK",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/TikTok.png"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/bilibili.png"
+    },
+    {
+      "name": "BWCJ",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/bwcj.png"
+    },
+    {
+      "name": "caixin",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/caixin.png"
+    },
+    {
+      "name": "caixin_1",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/caixin_1.png"
+    },
+    {
+        "name": "Erjian",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/erjian.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/facebook.png"
+    },
+    {
+      "name": "Meituan",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/meituan.png"
+    },
+    {
+      "name": "MXBC",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/mxbc.png"
+    },
+    {
+      "name": "Rate",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/rate.png"
+    },
+     {
+      "name": "Tidal",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/tidal.png"
+    },
+     {
+      "name": "Tidal_1",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/tidal_1.png"
+    },
+     {
+      "name": "Wechatpay",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/wechatpay.png"
+    },
+  ]
+}
