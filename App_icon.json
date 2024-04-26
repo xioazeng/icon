@@ -1,14 +1,15 @@
 {
-  "name": "自用图标",
-  "description": "机场图标",
+  "name": "自用图标集",
+  "description": "图标",
   "icons": [
     {
       "name": "m78star",
       "url": "https://raw.githubusercontent.com/xioazeng/icon/master/m78star.png"
     },
-  ],
-  "description": "app图标",
-  "icons": [
+    {
+      "name": "Loon_TieTie",
+      "url": "https://raw.githubusercontent.com/xioazeng/icon/master/Loon_TieTie.png"
+    },
     {
       "name": "TikTOK",
       "url": "https://raw.githubusercontent.com/xioazeng/icon/master/TikTok.png"
