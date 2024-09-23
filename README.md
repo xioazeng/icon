@@ -4,11 +4,11 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/xioazeng/icon/raw/master/HK.png" alt="香港" width="300"/>
+        <img src="https://github.com/xioazeng/icon/raw/master/HK.png" alt="香港" width="80"/>
         <p>香港</p>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/xioazeng/icon/raw/master/TW.png" alt="台湾" width="300"/>
+        <img src="https://github.com/xioazeng/icon/raw/master/TW.png" alt="台湾" width="80"/>
         <p>台湾</p>
     </div>
 </div>
